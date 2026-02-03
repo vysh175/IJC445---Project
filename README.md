@@ -11,7 +11,7 @@ The visualisations examine punctuality, service disruption, variability, and dif
 
 ## Files in this repository
 - `rail_performance_visualisation.R` – R script used to clean the data and generate all visualisations
-- `figure1_composite_visualisation.png` – Composite visualisation (Figure 1) used in the coursework report
+- `IJC445_composite_visualisation.png` – Composite visualisation (Figure 1) used in the coursework report
 
 ## Data Source
 Office of Rail and Road (ORR):  
